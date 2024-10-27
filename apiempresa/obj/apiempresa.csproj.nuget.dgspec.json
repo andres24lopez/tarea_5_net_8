@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ANDRES\\Desktop\\apiempresa\\apiempresa.csproj": {}
+    "C:\\Users\\ANDRES\\Documents\\programacion 2\\p2 tarea 5\\apiempresa\\apiempresa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ANDRES\\Desktop\\apiempresa\\apiempresa.csproj": {
+    "C:\\Users\\ANDRES\\Documents\\programacion 2\\p2 tarea 5\\apiempresa\\apiempresa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ANDRES\\Desktop\\apiempresa\\apiempresa.csproj",
+        "projectUniqueName": "C:\\Users\\ANDRES\\Documents\\programacion 2\\p2 tarea 5\\apiempresa\\apiempresa.csproj",
         "projectName": "apiempresa",
-        "projectPath": "C:\\Users\\ANDRES\\Desktop\\apiempresa\\apiempresa.csproj",
+        "projectPath": "C:\\Users\\ANDRES\\Documents\\programacion 2\\p2 tarea 5\\apiempresa\\apiempresa.csproj",
         "packagesPath": "C:\\Users\\ANDRES\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ANDRES\\Desktop\\apiempresa\\obj\\",
+        "outputPath": "C:\\Users\\ANDRES\\Documents\\programacion 2\\p2 tarea 5\\apiempresa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ANDRES\\AppData\\Roaming\\NuGet\\NuGet.Config",

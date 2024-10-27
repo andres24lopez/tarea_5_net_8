@@ -7,6 +7,7 @@ public class Conexiones : DbContext{
         : base(options)
     {
     }
-
+     public DbSet<Proveedores> Proveedores { get; set; } = null!;
     public DbSet<clientes> clientes { get; set; } = null!;
+
 }
